@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://ru.freepik.com/free-photo/_1047575.htm#page=5&query=leaves&position=14&from_view=search&track=sph" alt="logo" />
+  </p>
+
 <!--
 **gutkati/gutkati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
