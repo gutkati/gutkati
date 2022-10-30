@@ -36,9 +36,9 @@
 
 <h3>Моя статистика:</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gutkati)](https://git.io/streak-stats)
+![Katya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutkati&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutkati)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutkati&layout=compact)](https://github.com/gutkati/github-readme-stats)
 <!--
 **gutkati/gutkati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
