@@ -12,17 +12,6 @@
 > Это всегда выглядит невозможным, пока вы не сделаете это 
 ***
 
-<div>
-<p>Хороший способ связаться со мной</p>
-<a href="https://blog.cowkite.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a href="https://blog.cowkite.com/" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-<a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a>
-</div>
-
 <h3>Мой стек:</h3>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40">&nbsp;
@@ -39,6 +28,18 @@
 ![Katya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutkati&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutkati&layout=compact)](https://github.com/gutkati/github-readme-stats)
+
+<div>
+<p>Хороший способ связаться со мной</p>
+<a href="https://blog.cowkite.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+<a href="https://blog.cowkite.com/" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+<a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a>
+</div>
+
 <!--
 **gutkati/gutkati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
