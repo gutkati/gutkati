@@ -1,6 +1,15 @@
-<h1 align="center"> Привет 👋 </h1>
+<div>
+<a href="https://blog.cowkite.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+<a href="https://blog.cowkite.com/" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+<a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a>
+</div>
 
-<h3 >Я Катя, начинающий фронтэнд-разработчик <img size=30 src="https://cdn-icons-png.flaticon.com/512/861/861054.png?w=740&t=st=1666958721~exp=1666959321~hmac=75d20b7b3165945172a0382c75e31fc7420361451f3252f0a181768889f852ad" alt="logo" width="20" heigh="20"/></h3>
+
+<h3 >Привет, я Катя, начинающий фронтэнд-разработчик <img size=30 src="https://cdn-icons-png.flaticon.com/512/861/861054.png?w=740&t=st=1666958721~exp=1666959321~hmac=75d20b7b3165945172a0382c75e31fc7420361451f3252f0a181768889f852ad" alt="logo" width="20" heigh="20"/></h3>
 
 
 - :memo: Каждый день учусь, кроме выходных
@@ -12,7 +21,7 @@
 > Это всегда выглядит невозможным, пока вы не сделаете это 
 ***
 
-<h3>Мой стек:</h3>
+<h3>Мой стек</h3>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40">&nbsp;
@@ -23,24 +32,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40">&nbsp;
 </div>
 
-<h3>Моя статистика:</h3>
+<h3>Моя статистика</h3>
 
 ![Katya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutkati&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutkati&layout=compact)](https://github.com/gutkati/github-readme-stats)
 
-<div>
-<p>Хороший способ связаться со мной</p>
-<a href="https://blog.cowkite.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a href="https://blog.cowkite.com/" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-<a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a>
-</div>
-
 <!--
+<h1 align="center"> Привет 👋 </h1>
 **gutkati/gutkati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
