@@ -34,7 +34,7 @@
 
 <h3>Моя статистика</h3>
 
-![Katya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutkati&show_icons=true)
+![Katya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutkati&show_icons=true)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutkati&layout=compact)](https://github.com/gutkati/github-readme-stats)
 
 <!--
