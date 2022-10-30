@@ -1,9 +1,44 @@
-### Hi there 👋
+<h1 align="center"> Привет 👋 </h1>
 
-<p align="center">
-  <img src="https://ru.freepik.com/free-photo/_1047575.htm#page=5&query=leaves&position=14&from_view=search&track=sph.jpg" alt="logo" />
-  </p>
+<h3 >Я Катя, начинающий фронтэнд-разработчик <img size=30 src="https://cdn-icons-png.flaticon.com/512/861/861054.png?w=740&t=st=1666958721~exp=1666959321~hmac=75d20b7b3165945172a0382c75e31fc7420361451f3252f0a181768889f852ad" alt="logo" width="20" heigh="20"/></h3>
 
+
+- :memo: Каждый день учусь, кроме выходных
+
+- :sun_with_face: Хочу попасть в команду опытных разработчиков
+
+- :hammer: Стремлюсь приобретать новые навыки и прокачивать имеющиеся
+
+> Это всегда выглядит невозможным, пока вы не сделаете это 
+***
+
+<div>
+<p>Хороший способ связаться со мной</p>
+<a href="https://blog.cowkite.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+<a href="https://blog.cowkite.com/" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+<a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a>
+</div>
+
+<h3>Мой стек:</h3>
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40">&nbsp;
+</div>
+
+<h3>Моя статистика:</h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gutkati)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutkati)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gutkati/gutkati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
