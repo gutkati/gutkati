@@ -7,7 +7,7 @@
 </a>
 
 
-<h3 >Привет, я Катя, начинающий фронтэнд-разработчик <img size=30 src="https://cdn-icons-png.flaticon.com/512/861/861054.png?w=740&t=st=1666958721~exp=1666959321~hmac=75d20b7b3165945172a0382c75e31fc7420361451f3252f0a181768889f852ad" alt="logo" width="20" heigh="20"/>
+<h3 >Привет, я Катя, начинающий Frontend-разработчик <img size=30 src="https://cdn-icons-png.flaticon.com/512/861/861054.png?w=740&t=st=1666958721~exp=1666959321~hmac=75d20b7b3165945172a0382c75e31fc7420361451f3252f0a181768889f852ad" alt="logo" width="20" heigh="20"/>
 </h3>
 
 
